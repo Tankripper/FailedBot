@@ -1,0 +1,1 @@
+nodemon -w bot.js
