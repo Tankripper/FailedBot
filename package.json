@@ -1,0 +1,15 @@
+{
+  "name": "failedbot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "Tankripper",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
